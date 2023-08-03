@@ -1,0 +1,1 @@
+cout<<head2->next->next;
